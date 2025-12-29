@@ -1,2 +1,3 @@
-# Kasira
-Kasira AI. She is trained on lore of the Ischia RP from Kryndel, Nationstates. All Kryndelians consented to have their pages used, and this info is partially owned by me. Do not do this with websites it's disallowed on. Email me @ rasputinalerts@gmail.com for more info if you want, just don't spam stupid stuff in my inbox
+# Kasira AI
+Trained on several pages from the Kryndel Wiki (Go to https://www.nationstates.net/region=kryndel it's linked under WIKI in the WFE) to train Kasira AI using nationstates lore from the Ischia RP in Kryndel. All people it was trained on the RP of consented to AI training, and this info is original work (not including my Canon Olyndor pages as that is a separate universe of Destiny 2+ Olyndor)
+Do not train an AI using copyright, unconsenting info. please. It's unethical.
